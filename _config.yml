@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "elblogdebraian.github.io"
+url: "http://elblogdebraian.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: elblogdebraian
+title: n00b2h4ck3r
 
 # Short description of your site
-description: "Conociendo a Jesús"
+description: "De Noobs a Hackers"
 
 # --- Navigation bar options --- #
 
@@ -66,7 +66,7 @@ author:
   name: n00b2h4ck3r
   email: "bdiez19@gmail.com"
   facebook: braianagustin.diez  # eg. daattali
-  github: elblogdebraian    # eg. daattali
+  github: n00b2h4ck3r    # eg. daattali
   twitter: n00b2h4ck3r   # eg. daattali
   reddit: yourname    # eg. daattali
   google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
@@ -74,7 +74,7 @@ author:
   xing: yourname      # eg. daattali
   stackoverflow: yourlink  # eg. "3943160/daattali"
   snapchat: yourname  # eg. daattali
-  instagram: elblogdebraian.tumblr.com # eg. daattali
+  instagram: dioshablahoy.tumblr # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
   telephone: yourphone   # eg. +14159998888
