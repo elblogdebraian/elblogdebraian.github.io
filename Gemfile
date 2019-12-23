@@ -9,3 +9,4 @@ gem 'jekyll-paginate'
 gem 'jekyll-sitemap'
 gem 'jekyll-gist'
 gem 'wdm'
+gem "nokogiri", ">= 1.10.4"
