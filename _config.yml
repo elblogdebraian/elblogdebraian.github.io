@@ -14,14 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: n00b2h4ck3r
+title: elblogdebraian
 
 # Short description of your site
-<<<<<<< HEAD
-description: "De Noobs a Hackers"
-=======
 description: "Conociendo a Jesús"
->>>>>>> b11bbb432495a61b0cd6bbed519bdbbe62c6c26d
 
 # --- Navigation bar options --- #
 
