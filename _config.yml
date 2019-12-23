@@ -17,7 +17,11 @@ baseurl: ""
 title: n00b2h4ck3r
 
 # Short description of your site
+<<<<<<< HEAD
 description: "De Noobs a Hackers"
+=======
+description: "Conociendo a Jesús"
+>>>>>>> b11bbb432495a61b0cd6bbed519bdbbe62c6c26d
 
 # --- Navigation bar options --- #
 
@@ -63,7 +67,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: n00b2h4ck3r
+  name: elblogdebraian
   email: "bdiez19@gmail.com"
   facebook: braianagustin.diez  # eg. daattali
   github: n00b2h4ck3r    # eg. daattali
