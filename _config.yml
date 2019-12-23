@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "elblogdebraian.github.io"
+url: "http://elblogdebraian.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -17,7 +17,7 @@ baseurl: ""
 title: elblogdebraian
 
 # Short description of your site
-description: "Conociendo a Jesús"
+description: "Conociendo a JesÃºs"
 
 # --- Navigation bar options --- #
 
@@ -63,7 +63,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: n00b2h4ck3r
+  name: elblogdebraian
   email: "bdiez19@gmail.com"
   facebook: braianagustin.diez  # eg. daattali
   github: elblogdebraian    # eg. daattali
