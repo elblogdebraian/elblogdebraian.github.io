@@ -2,7 +2,7 @@
 layout: post
 title: ¿Nos estamos conservando?
 featured: true
-author: elblogdebraian
+author: Braian A. Diez
 tags: [Devocional]
 image: '/images/posts/31.jpg'
 ---
