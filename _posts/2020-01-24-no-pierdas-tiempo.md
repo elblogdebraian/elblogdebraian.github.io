@@ -2,7 +2,7 @@
 layout: post
 title: No pierdas tiempo, vuelve a Dios
 author: Braian A. Diez
-tags: [Devocional]
+tags: [devocional]
 image: '/images/posts/26.jpg'
 ---
 

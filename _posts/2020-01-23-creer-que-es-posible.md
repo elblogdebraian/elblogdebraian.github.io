@@ -2,7 +2,7 @@
 layout: post
 title: Creer que es posible
 author: Braian A. Diez
-tags: [Devocional]
+tags: [devocional]
 image: '/images/posts/23.jpg'
 ---
 

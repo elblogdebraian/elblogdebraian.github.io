@@ -2,7 +2,7 @@
 layout: post
 title: Lo esencial es Invisible a los Ojos
 author: Braian A. Diez
-tags: [Citas]
+tags: [citas]
 image: '/images/posts/5.jpg'
 ---
 
