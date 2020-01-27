@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>El Blog de Braian</title>
-    <description>Thoughts, Stories and Ideas</description>
+    <description>Devocionales, Noticias, Y mucho más</description>
     <link>https://elblogdebraian.github.io/</link>
     <atom:link href="https://elblogdebraian.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Jan 2020 19:43:14 -0300</pubDate>
-    <lastBuildDate>Mon, 27 Jan 2020 19:43:14 -0300</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2020 19:53:53 -0300</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2020 19:53:53 -0300</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
 
     
