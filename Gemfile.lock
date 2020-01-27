@@ -39,6 +39,7 @@ GEM
       nuggets (= 1.0.0)
     safe_yaml (1.0.4)
     sass (3.4.22)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -49,6 +50,7 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   jekyll-tagging
+  wdm
 
 BUNDLED WITH
    1.17.2
