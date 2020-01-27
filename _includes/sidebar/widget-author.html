@@ -24,10 +24,18 @@
           </li>
         {% endif %}
 
-        {% if author.github %}
+        {% if author.instagram %}
           <li class='c-author__links-item'>
-            <a href='{{ author.github }}' aria-label='Github' target='_blank' rel='noopener'>
-              <span class='c-author__links-icon' data-icon='ei-sc-github' data-size='s'></span>
+            <a href='{{ author.instagram }}' aria-label='Instagram' target='_blank' rel='noopener'>
+              <span class='c-author__links-icon' data-icon='ei-sc-instagram' data-size='s'></span>
+            </a>
+          </li>
+        {% endif %}
+
+        {% if author.facebook %}
+          <li class='c-author__links-item'>
+            <a href='{{ author.facebook }}' aria-label='Facebook' target='_blank' rel='noopener'>
+              <span class='c-author__links-icon' data-icon='ei-sc-facebook' data-size='s'></span>
             </a>
           </li>
         {% endif %}
@@ -36,14 +44,6 @@
           <li class='c-author__links-item'>
             <a href='mailto:{{ author.email }}' aria-label='Email' target='_blank' rel='noopener'>
               <span class='c-author__links-icon' data-icon='ei-envelope' data-size='s'></span>
-            </a>
-          </li>
-        {% endif %}
-
-        {% if author.website %}
-          <li class='c-author__links-item'>
-            <a href='{{ author.website }}' aria-label='Website' target='_blank' rel='noopener'>
-              <span class='c-author__links-icon' data-icon='ei-link' data-size='s'></span>
             </a>
           </li>
         {% endif %}
