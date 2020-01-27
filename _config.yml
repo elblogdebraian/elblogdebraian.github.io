@@ -9,7 +9,7 @@ theme_version: 1.0.4
 
 # Site settings
 title:              El Blog de Braian
-logo:               /images/logos/elblogdebraian2.png
+logo:               /images/logos/elblogdebraian.png
 description:        Thoughts, Stories and Ideas
 baseurl:            '' # The subpath of your site, e.g. /blog
 url:                'https://elblogdebraian.github.io' # The base hostname & protocol for your site
