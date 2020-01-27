@@ -62,6 +62,7 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.6.1)
+    wdm (0.1.1)
 
 PLATFORMS
   ruby
@@ -72,6 +73,7 @@ DEPENDENCIES
   jekyll
   jekyll-paginate
   jekyll-tagging
+  wdm
 
 BUNDLED WITH
    1.17.2
