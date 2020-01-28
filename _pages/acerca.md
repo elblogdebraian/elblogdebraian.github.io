@@ -30,3 +30,7 @@ Yo soy un personaje, soy un instrumento de Dios. No soy más que una herramienta
 
 Creo en un Dios real y vivo, en Jesús su Hijo que habiendo resucitado nos dió la oportunidad de ser **salvos**. Creo en el Espíritu Santo, que es el motor de este cuerpo con barba. 
 Dios no es malvado, Dios no es cruel y totalmente contrario a estas ideas que se nos impuso a lo largo de los años, **Dios es un Papá cien por ciento amoroso, interesado por tener una relación con vos**
+
+---
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us4.list-manage.com","uuid":"2b9201d205b839798f3ebac5e","lid":"b07d8fb389","uniqueMethods":true}) })</script>

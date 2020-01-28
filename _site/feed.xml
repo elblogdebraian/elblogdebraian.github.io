@@ -5,8 +5,8 @@
     <description>Devocionales, Noticias, Y mucho más</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jan 2020 14:52:04 -0300</pubDate>
-    <lastBuildDate>Tue, 28 Jan 2020 14:52:04 -0300</lastBuildDate>
+    <pubDate>Tue, 28 Jan 2020 15:20:41 -0300</pubDate>
+    <lastBuildDate>Tue, 28 Jan 2020 15:20:41 -0300</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -453,6 +453,12 @@ El blog no es más que una herramienta para llegar a personas en necesidad que e
 
 &lt;p&gt;Creo en un Dios real y vivo, en Jesús su Hijo que habiendo resucitado nos dió la oportunidad de ser &lt;strong&gt;salvos&lt;/strong&gt;. Creo en el Espíritu Santo, que es el motor de este cuerpo con barba. 
 Dios no es malvado, Dios no es cruel y totalmente contrario a estas ideas que se nos impuso a lo largo de los años, &lt;strong&gt;Dios es un Papá cien por ciento amoroso, interesado por tener una relación con vos&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js&quot; data-dojo-config=&quot;usePlainJson: true, isDebug: false&quot;&gt;&lt;/script&gt;
+&lt;script type=&quot;text/javascript&quot;&gt;window.dojoRequire([&quot;mojo/signup-forms/Loader&quot;], function(L) { L.start({&quot;baseUrl&quot;:&quot;mc.us4.list-manage.com&quot;,&quot;uuid&quot;:&quot;2b9201d205b839798f3ebac5e&quot;,&quot;lid&quot;:&quot;b07d8fb389&quot;,&quot;uniqueMethods&quot;:true}) })&lt;/script&gt;
+
 </description>
             <link>http://localhost:4000/acerca.html</link>
           </item>
