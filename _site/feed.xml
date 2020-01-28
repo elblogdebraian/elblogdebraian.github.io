@@ -5,8 +5,8 @@
     <description>Devocionales, Noticias, Y mucho más</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jan 2020 14:15:12 -0300</pubDate>
-    <lastBuildDate>Tue, 28 Jan 2020 14:15:12 -0300</lastBuildDate>
+    <pubDate>Tue, 28 Jan 2020 14:28:17 -0300</pubDate>
+    <lastBuildDate>Tue, 28 Jan 2020 14:28:17 -0300</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -174,90 +174,49 @@ Vayamos ustedes a los montes; traigan madera y reconstruyan mí casa. Yo veré s
         <guid isPermaLink="true">http://localhost:4000/2020/01/22/lo-esencial-es-invisible/</guid>
       </item>
     
+      <item>
+        <title>Guía para contenido</title>
+        <description>&lt;p&gt;At &lt;a href=&quot;http://elblogdebraian.online/&quot;&gt;elblogdebraian theme&lt;/a&gt; I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.&lt;/p&gt;
 
-    
-      
-        
-      
-    
-      
-        
-          <item>
-            <title>Acerca</title>
-            <description>&lt;h3 id=&quot;elblogdebraian&quot;&gt;elblogdebraian&lt;/h3&gt;
-
-&lt;p&gt;Éste es simplemente un proyecto que tiene como fin llevar &lt;strong&gt;un mensaje de esperanza&lt;/strong&gt; a todas aquellas personas que necesitan salir adelante. Personas que necesitan cambiar su vida o que tal vez necesitan un punto de vista diferente.
-También trato de brindar herramientas para que las personas puedan creecer en diferentes maneras y aspectos de su vida.&lt;/p&gt;
+&lt;p&gt;Graphic design is the paradise of &lt;strong&gt;individuality&lt;/strong&gt;, &lt;em&gt;eccentricity&lt;/em&gt;, heresy, abnormality, hobbies, and humors. — George Santayana.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;por-qué-nace-el-blog&quot;&gt;¿Por qué nace el blog?&lt;/h3&gt;
+&lt;h1 id=&quot;simple-default-styles-for-headings&quot;&gt;Simple default styles for headings&lt;/h1&gt;
 
-&lt;p&gt;Viendo que día a día las redes sociales invaden el mundo en el que vivimos decidí invertir mi tiempo en crear un contenido &lt;strong&gt;sano&lt;/strong&gt;. Desde aproximadamente el 2007 que dediqué mi tiempo a incursionar en las redes sociales, por ende considero tener cierta experienca en lo que se refiere a &lt;strong&gt;Influenciar a través de la internet&lt;/strong&gt;
-El blog no es más que una herramienta para llegar a personas en necesidad que están atravesando un problema en su vida. Es la herramienta que Dios nos dió para llegar a más y más personas.&lt;/p&gt;
+&lt;h2 id=&quot;simple-default-styles-for-headings-1&quot;&gt;Simple default styles for headings&lt;/h2&gt;
 
-&lt;hr /&gt;
+&lt;h3 id=&quot;simple-default-styles-for-headings-2&quot;&gt;Simple default styles for headings&lt;/h3&gt;
 
-&lt;h3 id=&quot;quién-soy&quot;&gt;¿Quién soy?&lt;/h3&gt;
+&lt;h4 id=&quot;simple-default-styles-for-headings-3&quot;&gt;Simple default styles for headings&lt;/h4&gt;
 
-&lt;p&gt;Yo soy un personaje, soy un instrumento de Dios. No soy más que una herramienta que Dios decide utilizar. Yo solo soy el mensajero de una gran empresa que se llama &lt;strong&gt;evangelismo&lt;/strong&gt; Soy el tipo que lleva un mensaje a una generación tecnológica.&lt;/p&gt;
+&lt;h5 id=&quot;simple-default-styles-for-headings-4&quot;&gt;Simple default styles for headings&lt;/h5&gt;
 
-&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/B3cDbsRl0v8/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;12&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/B3cDbsRl0v8/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; Ver esta publicación en Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/B3cDbsRl0v8/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Siendo nada nos amó♥️. Ahora soy su hijo y Él mí papá ✝️ . . . . . . #photooftheday #photo #photographer #photography #illgrammers&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;Una publicación compartida por &lt;a href=&quot;https://www.instagram.com/elblogdebraian/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;&quot; target=&quot;_blank&quot;&gt; Braian Agustín Diez&lt;/a&gt; (@elblogdebraian) el &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2019-10-10T12:51:39+00:00&quot;&gt;10 de Oct de 2019 a las 5:51 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+&lt;h6 id=&quot;simple-default-styles-for-headings-5&quot;&gt;Simple default styles for headings&lt;/h6&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;en-qué-creo&quot;&gt;¿En qué creo?&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.&lt;/li&gt;
+  &lt;li&gt;Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor.&lt;/li&gt;
+  &lt;li&gt;Donec nibh massa, rutrum a sollicitudin eu, lacinia in lorem.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Creo en un Dios real y vivo, en Jesús su Hijo que habiendo resucitado nos dió la oportunidad de ser &lt;strong&gt;salvos&lt;/strong&gt;. Creo en el Espíritu Santo, que es el motor de este cuerpo con barba. 
-Dios no es malvado, Dios no es cruel y totalmente contrario a estas ideas que se nos impuso a lo largo de los años, &lt;strong&gt;Dios es un Papá cien por ciento amoroso, interesado por tener una relación con vos&lt;/strong&gt;&lt;/p&gt;
-</description>
-            <link>http://localhost:4000/acerca.html</link>
-          </item>
-        
-      
-    
-      
-    
-      
-        
-          <item>
-            <title>Guía de Estilo</title>
-            <description>At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
+&lt;hr /&gt;
 
-Graphic design is the paradise of **individuality**, *eccentricity*, heresy, abnormality, hobbies, and humors. — George Santayana.
+&lt;ol&gt;
+  &lt;li&gt;Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.&lt;/li&gt;
+  &lt;li&gt;Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in.&lt;/li&gt;
+  &lt;li&gt;Donec nibh massa, rutrum a sollicitudin eu.&lt;/li&gt;
+&lt;/ol&gt;
 
----
+&lt;hr /&gt;
 
-# Simple default styles for headings
+&lt;blockquote&gt;
+  &lt;p&gt;Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana&lt;/p&gt;
+&lt;/blockquote&gt;
 
-## Simple default styles for headings
-
-### Simple default styles for headings
-
-#### Simple default styles for headings
-
-##### Simple default styles for headings
-
-###### Simple default styles for headings
-
----
-
-* Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-* Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor.
-* Donec nibh massa, rutrum a sollicitudin eu, lacinia in lorem.
-
----
-
-1. Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.
-2. Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in.
-3. Donec nibh massa, rutrum a sollicitudin eu.
-
----
-
-&gt; Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana
-
----
+&lt;hr /&gt;
 
 &lt;p&gt;You can use the mark tag to &lt;mark&gt;highlight&lt;/mark&gt; text.&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;This line of text is meant to be treated as deleted text.&lt;/del&gt;&lt;/p&gt;
@@ -268,11 +227,11 @@ Graphic design is the paradise of **individuality**, *eccentricity*, heresy, abn
 &lt;p&gt;&lt;abbr title=&quot;attribute&quot;&gt;attr&lt;/abbr&gt;&lt;/p&gt;
 &lt;p&gt;&lt;abbr title=&quot;HyperText Markup Language&quot; class=&quot;initialism&quot;&gt;HTML&lt;/abbr&gt;&lt;/p&gt;
 
----
+&lt;hr /&gt;
 
-### Responsive Tables
+&lt;h3 id=&quot;responsive-tables&quot;&gt;Responsive Tables&lt;/h3&gt;
 
-&lt;div class='responsive-table'&gt;
+&lt;div class=&quot;responsive-table&quot;&gt;
 &lt;table&gt;
       &lt;thead&gt;
         &lt;tr&gt;
@@ -329,138 +288,177 @@ Graphic design is the paradise of **individuality**, *eccentricity*, heresy, abn
     &lt;/table&gt;
 &lt;/div&gt;
 
----
+&lt;hr /&gt;
 
-### YouTube Responsive Embed
+&lt;h3 id=&quot;youtube-responsive-embed&quot;&gt;YouTube Responsive Embed&lt;/h3&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nuwjUZCSB2Y?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nuwjUZCSB2Y?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
----
+&lt;hr /&gt;
 
-### Vimeo Responsive Embed
+&lt;h3 id=&quot;vimeo-responsive-embed&quot;&gt;Vimeo Responsive Embed&lt;/h3&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/212114694?title=0&amp;byline=0&amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://player.vimeo.com/video/212114694?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
----
+&lt;hr /&gt;
 
-### TED Responsive Embed
+&lt;h3 id=&quot;ted-responsive-embed&quot;&gt;TED Responsive Embed&lt;/h3&gt;
 
-&lt;iframe src=&quot;https://embed.ted.com/talks/ted_halstead_a_climate_solution_where_all_sides_can_win&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://embed.ted.com/talks/ted_halstead_a_climate_solution_where_all_sides_can_win&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
----
+&lt;hr /&gt;
 
-### Twitch Responsive Embed
+&lt;h3 id=&quot;twitch-responsive-embed&quot;&gt;Twitch Responsive Embed&lt;/h3&gt;
 
-&lt;iframe src=&quot;https://player.twitch.tv/?autoplay=false&amp;video=v248755437&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; height=&quot;378&quot; width=&quot;620&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;https://player.twitch.tv/?autoplay=false&amp;amp;video=v248755437&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;true&quot; scrolling=&quot;no&quot; height=&quot;378&quot; width=&quot;620&quot;&gt;&lt;/iframe&gt;
 
----
+&lt;hr /&gt;
 
-### SoundCloud Embed
+&lt;h3 id=&quot;soundcloud-embed&quot;&gt;SoundCloud Embed&lt;/h3&gt;
 
 &lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/29738591&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 
----
+&lt;hr /&gt;
 
-### CodePen Embed
+&lt;h3 id=&quot;codepen-embed&quot;&gt;CodePen Embed&lt;/h3&gt;
 
 &lt;p data-height=&quot;265&quot; data-theme-id=&quot;light&quot; data-slug-hash=&quot;YWvpRo&quot; data-default-tab=&quot;css,result&quot; data-user=&quot;kharrop&quot; data-embed-version=&quot;2&quot; data-pen-title=&quot;Referral Form&quot; class=&quot;codepen&quot;&gt;&lt;/p&gt;
-&lt;script async src=&quot;https://production-assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
+&lt;script async=&quot;&quot; src=&quot;https://production-assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
 
----
+&lt;hr /&gt;
 
-### Instagram Embed
+&lt;h3 id=&quot;instagram-embed&quot;&gt;Instagram Embed&lt;/h3&gt;
 
-  &lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BhFTg6uhNRi/&quot; data-instgrm-version=&quot;8&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BhFTg6uhNRi/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Ahmad Ajmi (@ahmadajme)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2018-04-02T21:18:58+00:00&quot;&gt;Apr 2, 2018 at 2:18pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt; &lt;script async defer src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/BhFTg6uhNRi/&quot; data-instgrm-version=&quot;8&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:8px;&quot;&gt; &lt;div style=&quot; background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;&quot;&gt; &lt;div style=&quot; background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAMUExURczMzPf399fX1+bm5mzY9AMAAADiSURBVDjLvZXbEsMgCES5/P8/t9FuRVCRmU73JWlzosgSIIZURCjo/ad+EQJJB4Hv8BFt+IDpQoCx1wjOSBFhh2XssxEIYn3ulI/6MNReE07UIWJEv8UEOWDS88LY97kqyTliJKKtuYBbruAyVh5wOHiXmpi5we58Ek028czwyuQdLKPG1Bkb4NnM+VeAnfHqn1k4+GPT6uGQcvu2h2OVuIf/gWUFyy8OWEpdyZSa3aVCqpVoVvzZZ2VTnn2wU8qzVjDDetO90GSy9mVLqtgYSy231MxrY6I2gGqjrTY0L8fxCxfCBbhWrsYYAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;&lt;a href=&quot;https://www.instagram.com/p/BhFTg6uhNRi/&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;&quot; target=&quot;_blank&quot;&gt;A post shared by Ahmad Ajmi (@ahmadajme)&lt;/a&gt; on &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2018-04-02T21:18:58+00:00&quot;&gt;Apr 2, 2018 at 2:18pm PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
 
----
+&lt;hr /&gt;
 
-### Twitter Embed
+&lt;h3 id=&quot;twitter-embed&quot;&gt;Twitter Embed&lt;/h3&gt;
 
 &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Very excited to release Nubia, a new Responsive &amp;amp; Multipurpose Ghost Theme 🚀🚀&lt;a href=&quot;https://t.co/LATsykOLDJ&quot;&gt;https://t.co/LATsykOLDJ&lt;/a&gt; &lt;a href=&quot;https://t.co/zG2PFVwe7G&quot;&gt;pic.twitter.com/zG2PFVwe7G&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aspire Themes (@aspirethemes) &lt;a href=&quot;https://twitter.com/aspirethemes/status/944865769300660225?ref_src=twsrc%5Etfw&quot;&gt;December 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
----
+&lt;hr /&gt;
 
-### Responsive &amp; Medium Style Image Zoom
+&lt;h3 id=&quot;responsive--medium-style-image-zoom&quot;&gt;Responsive &amp;amp; Medium Style Image Zoom&lt;/h3&gt;
 
-Click the image to zoom it :)
+&lt;p&gt;Click the image to zoom it :)&lt;/p&gt;
 
-![styleguide](/images/posts/22.jpg)
+&lt;p&gt;&lt;img src=&quot;/images/posts/22.jpg&quot; alt=&quot;styleguide&quot; /&gt;&lt;/p&gt;
 
----
+&lt;hr /&gt;
 
-### Syntax Highlighting
+&lt;h3 id=&quot;syntax-highlighting&quot;&gt;Syntax Highlighting&lt;/h3&gt;
 
-{% highlight js %}
-'use strict';
-var markdown = require('markdown').markdown;
-function Editor(input, preview) {
-  this.update = function() {
-    preview.innerHTML = markdown.toHTML(input.value);
-  };
-  input.editor = this;
-  this.update();
-}
-{% endhighlight %}
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;use strict&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Editor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;preview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;preview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;innerHTML&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;toHTML&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;editor&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-You can add inline code just like this, E.g. `.code { color: #fff; }`
+&lt;p&gt;You can add inline code just like this, E.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;.code { color: #fff; }&lt;/code&gt;&lt;/p&gt;
 
-{% highlight css %}
-pre {
-  background-color: #f4f4f4;
-  max-width: 100%;
-  overflow: auto;
-}
-{% endhighlight %}
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-css&quot; data-lang=&quot;css&quot;&gt;&lt;span class=&quot;nt&quot;&gt;pre&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#f4f4f4&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;max-width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;nl&quot;&gt;overflow&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;auto&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
----
+&lt;hr /&gt;
 
-### GitHub gist Embed
+&lt;h3 id=&quot;github-gist-embed&quot;&gt;GitHub gist Embed&lt;/h3&gt;
 
 &lt;script src=&quot;https://gist.github.com/ahmadajmi/dbb4f713317721668bcbc39420562afc.js&quot;&gt;&lt;/script&gt;
 
----
+&lt;hr /&gt;
 
-### Input Style
+&lt;h3 id=&quot;input-style&quot;&gt;Input Style&lt;/h3&gt;
 
-&lt;input type=&quot;text&quot; placeholder=&quot;I'm an input field!&quot;&gt;
+&lt;p&gt;&lt;input type=&quot;text&quot; placeholder=&quot;I'm an input field!&quot; /&gt;&lt;/p&gt;
 
----
+&lt;hr /&gt;
 
-### Buttons Style
+&lt;h3 id=&quot;buttons-style&quot;&gt;Buttons Style&lt;/h3&gt;
 
-&lt;button class='c-btn c-btn--small'&gt;Button&lt;/button&gt;
+&lt;p&gt;&lt;button class=&quot;c-btn c-btn--small&quot;&gt;Button&lt;/button&gt;&lt;/p&gt;
 
-&lt;button class='c-btn'&gt;Button&lt;/button&gt;
+&lt;p&gt;&lt;button class=&quot;c-btn&quot;&gt;Button&lt;/button&gt;&lt;/p&gt;
 
-&lt;button class='c-btn c-btn--full'&gt;Button&lt;/button&gt;
+&lt;p&gt;&lt;button class=&quot;c-btn c-btn--full&quot;&gt;Button&lt;/button&gt;&lt;/p&gt;
 
----
+&lt;hr /&gt;
 
-{% highlight html %}
-&lt;button class='c-btn'&gt;Button&lt;/button&gt;
-&lt;button class='c-btn c-btn--small'&gt;Button&lt;/button&gt;
-&lt;button class='c-btn c-btn--full'&gt;Button&lt;/button&gt;
-{% endhighlight %}
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'c-btn'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'c-btn c-btn--small'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'c-btn c-btn--full'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
----
+&lt;hr /&gt;
 
-&lt;button class='c-btn c-btn--active c-btn--small'&gt;Button&lt;/button&gt;
+&lt;p&gt;&lt;button class=&quot;c-btn c-btn--active c-btn--small&quot;&gt;Button&lt;/button&gt;&lt;/p&gt;
 
-&lt;button class='c-btn c-btn--active'&gt;Button&lt;/button&gt;
+&lt;p&gt;&lt;button class=&quot;c-btn c-btn--active&quot;&gt;Button&lt;/button&gt;&lt;/p&gt;
 
-&lt;button class='c-btn c-btn--active c-btn--full'&gt;Button&lt;/button&gt;
+&lt;p&gt;&lt;button class=&quot;c-btn c-btn--active c-btn--full&quot;&gt;Button&lt;/button&gt;&lt;/p&gt;
 
----
+&lt;hr /&gt;
 
-{% highlight html %}
-&lt;button class='c-btn c-btn--active'&gt;Button&lt;/button&gt;
-&lt;button class='c-btn c-btn--active c-btn--small'&gt;Button&lt;/button&gt;
-&lt;button class='c-btn c-btn--active c-btn--full'&gt;Button&lt;/button&gt;
-{% endhighlight %}</description>
-            <link>http://localhost:4000/guia-de-estilo.html</link>
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'c-btn c-btn--active'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'c-btn c-btn--active c-btn--small'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;button&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'c-btn c-btn--active c-btn--full'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Button&lt;span class=&quot;nt&quot;&gt;&amp;lt;/button&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+</description>
+        <pubDate>20 Jan 2020</pubDate>
+        <link>http://localhost:4000/2020/01/20/guia-de-estilo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/20/guia-de-estilo/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>Acerca</title>
+            <description>&lt;h3 id=&quot;elblogdebraian&quot;&gt;elblogdebraian&lt;/h3&gt;
+
+&lt;p&gt;Éste es simplemente un proyecto que tiene como fin llevar &lt;strong&gt;un mensaje de esperanza&lt;/strong&gt; a todas aquellas personas que necesitan salir adelante. Personas que necesitan cambiar su vida o que tal vez necesitan un punto de vista diferente.
+También trato de brindar herramientas para que las personas puedan creecer en diferentes maneras y aspectos de su vida.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;por-qué-nace-el-blog&quot;&gt;¿Por qué nace el blog?&lt;/h3&gt;
+
+&lt;p&gt;Viendo que día a día las redes sociales invaden el mundo en el que vivimos decidí invertir mi tiempo en crear un contenido &lt;strong&gt;sano&lt;/strong&gt;. Desde aproximadamente el 2007 que dediqué mi tiempo a incursionar en las redes sociales, por ende considero tener cierta experienca en lo que se refiere a &lt;strong&gt;Influenciar a través de la internet&lt;/strong&gt;
+El blog no es más que una herramienta para llegar a personas en necesidad que están atravesando un problema en su vida. Es la herramienta que Dios nos dió para llegar a más y más personas.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;quién-soy&quot;&gt;¿Quién soy?&lt;/h3&gt;
+
+&lt;p&gt;Yo soy un personaje, soy un instrumento de Dios. No soy más que una herramienta que Dios decide utilizar. Yo solo soy el mensajero de una gran empresa que se llama &lt;strong&gt;evangelismo&lt;/strong&gt; Soy el tipo que lleva un mensaje a una generación tecnológica.&lt;/p&gt;
+
+&lt;blockquote class=&quot;instagram-media&quot; data-instgrm-captioned=&quot;&quot; data-instgrm-permalink=&quot;https://www.instagram.com/p/B3cDbsRl0v8/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; data-instgrm-version=&quot;12&quot; style=&quot; background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);&quot;&gt;&lt;div style=&quot;padding:16px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/B3cDbsRl0v8/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;&quot; target=&quot;_blank&quot;&gt; &lt;div style=&quot; display: flex; flex-direction: row; align-items: center;&quot;&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: column; flex-grow: 1; justify-content: center;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 19% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display:block; height:50px; margin:0 auto 12px; width:50px;&quot;&gt;&lt;svg width=&quot;50px&quot; height=&quot;50px&quot; viewBox=&quot;0 0 60 60&quot; version=&quot;1.1&quot; xmlns=&quot;https://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;https://www.w3.org/1999/xlink&quot;&gt;&lt;g stroke=&quot;none&quot; stroke-width=&quot;1&quot; fill=&quot;none&quot; fill-rule=&quot;evenodd&quot;&gt;&lt;g transform=&quot;translate(-511.000000, -20.000000)&quot; fill=&quot;#000000&quot;&gt;&lt;g&gt;&lt;path d=&quot;M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631&quot;&gt;&lt;/path&gt;&lt;/g&gt;&lt;/g&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/div&gt;&lt;div style=&quot;padding-top: 8px;&quot;&gt; &lt;div style=&quot; color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;&quot;&gt; Ver esta publicación en Instagram&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;padding: 12.5% 0;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;&quot;&gt;&lt;div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot;background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: 8px;&quot;&gt; &lt;div style=&quot; background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;margin-left: auto;&quot;&gt; &lt;div style=&quot; width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);&quot;&gt;&lt;/div&gt; &lt;div style=&quot; width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/a&gt; &lt;p style=&quot; margin:8px 0 0 0; padding:0 4px;&quot;&gt; &lt;a href=&quot;https://www.instagram.com/p/B3cDbsRl0v8/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;&quot; target=&quot;_blank&quot;&gt;Siendo nada nos amó♥️. Ahora soy su hijo y Él mí papá ✝️ . . . . . . #photooftheday #photo #photographer #photography #illgrammers&lt;/a&gt;&lt;/p&gt; &lt;p style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;&quot;&gt;Una publicación compartida por &lt;a href=&quot;https://www.instagram.com/elblogdebraian/?utm_source=ig_embed&amp;amp;utm_campaign=loading&quot; style=&quot; color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px;&quot; target=&quot;_blank&quot;&gt; Braian Agustín Diez&lt;/a&gt; (@elblogdebraian) el &lt;time style=&quot; font-family:Arial,sans-serif; font-size:14px; line-height:17px;&quot; datetime=&quot;2019-10-10T12:51:39+00:00&quot;&gt;10 de Oct de 2019 a las 5:51 PDT&lt;/time&gt;&lt;/p&gt;&lt;/div&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//www.instagram.com/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;en-qué-creo&quot;&gt;¿En qué creo?&lt;/h3&gt;
+
+&lt;p&gt;Creo en un Dios real y vivo, en Jesús su Hijo que habiendo resucitado nos dió la oportunidad de ser &lt;strong&gt;salvos&lt;/strong&gt;. Creo en el Espíritu Santo, que es el motor de este cuerpo con barba. 
+Dios no es malvado, Dios no es cruel y totalmente contrario a estas ideas que se nos impuso a lo largo de los años, &lt;strong&gt;Dios es un Papá cien por ciento amoroso, interesado por tener una relación con vos&lt;/strong&gt;&lt;/p&gt;
+</description>
+            <link>http://localhost:4000/acerca.html</link>
           </item>
         
+      
+    
       
     
       

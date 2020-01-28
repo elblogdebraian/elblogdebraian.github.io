@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Guía de Estilo
+layout: post
+title: Guía para contenido
+author: Braian A. Diez
 image: '/images/pages/9.jpg'
 ---
 
-At [Aspire Themes](http://aspirethemes.com/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
+At [elblogdebraian theme](http://elblogdebraian.online/) I use a lot of tools to help me create WordPress, Ghost and Jekyll themes. Tools will range from development, design, services, hosting and automation.
 
 Graphic design is the paradise of **individuality**, *eccentricity*, heresy, abnormality, hobbies, and humors. — George Santayana.
 
