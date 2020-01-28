@@ -36,14 +36,14 @@ Y no solo por los alimentos, sino que estaban totalmente en la presencia del E.S
 
 **Conectados a la batería del E.S. 24/7.** Ese mismo día fueron bautizados y sumados a la iglesia 3.000 personas. 
 
-## Si realmente queremos ver un cambio en nuestra ciudad debemos pasar tiempo en la presencia del E.S. 
-## Y pasar tiempo no son diez minutos. Es un día entero. Un mes entero, un año entero. 
+### Si realmente queremos ver un cambio en nuestra ciudad debemos pasar tiempo en la presencia del E.S. 
+### Y pasar tiempo no son diez minutos. Es un día entero. Un mes entero, un año entero. 
 
-## Imagínense lo que puede suceder si pasamos una vida en la presencia de Dios. 
+### Imagínense lo que puede suceder si pasamos una vida en la presencia de Dios. 
 
 
 ![alt](https://images.unsplash.com/photo-1580171564195-978cd9b462df?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1268&q=80)
 
-## Si queremos alcanzar una generación 2020 vamos a tener que permanecer en la presencia de Dios.
+### Si queremos alcanzar una generación 2020 vamos a tener que permanecer en la presencia de Dios.
 
 # ¿Estás listo?
