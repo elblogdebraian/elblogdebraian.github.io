@@ -213,7 +213,7 @@ pre {
 
 <button class='c-btn c-btn--small'>Button</button>
 
-<button class='c-btn'>Button</button>
+<a href="https://elblogdebraian.online"  class='c-btn c-btn--small' role="button" >Button</a>
 
 <button class='c-btn c-btn--full'>Button</button>
 
@@ -221,7 +221,7 @@ pre {
 
 {% highlight html %}
 <button class='c-btn'>Button</button>
-<button class='c-btn c-btn--small'>Button</button>
+<a href="https://elblogdebraian.online"  class='c-btn c-btn--small' role="button" >Button</a>
 <button class='c-btn c-btn--full'>Button</button>
 {% endhighlight %}
 
