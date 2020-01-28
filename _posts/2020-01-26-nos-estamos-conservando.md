@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ¿Nos estamos conservando?
+title: ¿Nos estamos conservando limpios?
 featured: true
 author: Braian A. Diez
 tags: [devocional]
-image: '/images/posts/31.jpg'
+image: 'https://images.unsplash.com/photo-1481277542470-605612bd2d61?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1390&q=80'
 ---
 
 
