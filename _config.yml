@@ -17,6 +17,10 @@ twitter:            https://twitter.com/n00b2h4ck3r
 facebook:           https://www.facebook.com/braianagustin.diez
 instagram:          https://www.instagram.com/elblogdebraian
 
+plugins:
+  - jekyll-paginate
+paginate: 11
+
 markdown:  kramdown
 permalink: pretty
 paginate:  11
