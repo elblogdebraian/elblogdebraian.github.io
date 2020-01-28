@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Conociendo Proyecto Hijo Prodigo #PHP
+featured: true
 author: Braian A. Diez
 tags: [noticias, actualizaciones]
 image: '/images/posts/34.jpeg'
