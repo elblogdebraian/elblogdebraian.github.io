@@ -3,7 +3,7 @@ layout: post
 title: Un tiempo más en tu presencia
 author: Braian A. Diez
 tags: [devocional]
-image: '/images/posts/36.jpg'
+image: 'https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'
 ---
 
 Llevamos recién 28 diás de el primer mes del año, y estuve leyendo el libro de Hechos. Hoy quería escribir acerca de Hechos 2:37 y su contexto.
