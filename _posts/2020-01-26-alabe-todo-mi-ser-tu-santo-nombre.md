@@ -3,7 +3,7 @@ layout: post
 title: Alabe todo mi ser Tu Santo Nombre
 author: Braian A. Diez
 tags: [devocional]
-image: '/images/posts/19.jpg'
+image: 'https://images.unsplash.com/photo-1500206329404-5057e0aefa48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=755&q=80'
 ---
 
 
