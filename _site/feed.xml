@@ -3,11 +3,11 @@
   <channel>
     <title>El Blog de Braian</title>
     <description>Devocionales, Noticias, Y mucho más</description>
-    <link>https://elblogdebraian.github.io/</link>
-    <atom:link href="https://elblogdebraian.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 27 Jan 2020 20:30:21 -0300</pubDate>
-    <lastBuildDate>Mon, 27 Jan 2020 20:30:21 -0300</lastBuildDate>
-    <generator>Jekyll v3.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Jan 2020 09:02:01 -0300</pubDate>
+    <lastBuildDate>Tue, 28 Jan 2020 09:02:01 -0300</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
 
     
       <item>
@@ -34,8 +34,34 @@
 &lt;h1 id=&quot;no-se-olviden-de-seguirlos-en-sus-redes-sociales&quot;&gt;No se olviden de seguirlos en sus REDES SOCIALES!!!&lt;/h1&gt;
 </description>
         <pubDate>27 Jan 2020</pubDate>
-        <link>https://elblogdebraian.github.io/2020/01/27/proyecto-hijo-prodigo/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2020/01/27/proyecto-hijo-prodigo/</guid>
+        <link>http://localhost:4000/2020/01/27/proyecto-hijo-prodigo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/27/proyecto-hijo-prodigo/</guid>
+      </item>
+    
+      <item>
+        <title>Todo esto nació en Tumblr</title>
+        <description>&lt;p&gt;Algunos quizá no conocen de donde sale este blog.&lt;/p&gt;
+
+&lt;h1 id=&quot;todo-surgió-en-tumblr&quot;&gt;Todo surgió en Tumblr.&lt;/h1&gt;
+
+&lt;p&gt;Todo comenzó en la plataforma de microblogging conocida como &lt;mark&gt;Tumblr.&lt;/mark&gt;&lt;/p&gt;
+
+&lt;div class=&quot;tumblr-post&quot; data-href=&quot;https://embed.tumblr.com/embed/post/e1HdtEo8eZbKi00wBX3KQg/166757023987&quot; data-did=&quot;9bf3b6e29f8d0318a278013c15d0730526b712e8&quot;&gt;&lt;a href=&quot;https://elblogdebraian.tumblr.com/post/166757023987/jes%C3%BAs-puede-calmar-la-tormenta&quot;&gt;https://elblogdebraian.tumblr.com/post/166757023987/jes%C3%BAs-puede-calmar-la-tormenta&lt;/a&gt;&lt;/div&gt;
+&lt;script async=&quot;&quot; src=&quot;https://assets.tumblr.com/post.js&quot;&gt;&lt;/script&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Actualmente somos alrededor de 8.000 seguidores en este blog que llevo desde el 2015. De ahí sale la idea de crecer y progresar, hasta llegar a un sitio web oficial.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;la-idea&quot;&gt;La idea.&lt;/h1&gt;
+
+&lt;p&gt;La idea va a ser continuar en tumblr, pero tratar de conseguir la mayor cantidad de lectores en este sitio web. Que  podamos crecer y algún día ser algo más que un sitio web o &lt;em&gt;blog&lt;/em&gt;.&lt;/p&gt;
+</description>
+        <pubDate>26 Jan 2020</pubDate>
+        <link>http://localhost:4000/2020/01/26/tumblr/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/26/tumblr/</guid>
       </item>
     
       <item>
@@ -58,8 +84,8 @@
 &lt;p&gt;&lt;strong&gt;Busquemos a Dios en este día. Y si sos uno de esos que no ha mantenido la paz, que no busca conservarse limpio en esta sociedad… Hacelo. Te aliento a que busques más de Jesús. La única persona en este mundo que buscó verdaderamente lo mejor para todo el mundo. Hagamos un altar de oración y llevemos a Jesús todos nuestros errores. Él aceptará con amor, cada conflicto que tengamos y nos ayudará a sanar!&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>26 Jan 2020</pubDate>
-        <link>https://elblogdebraian.github.io/2020/01/26/nos-estamos-conservando/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2020/01/26/nos-estamos-conservando/</guid>
+        <link>http://localhost:4000/2020/01/26/nos-estamos-conservando/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/26/nos-estamos-conservando/</guid>
       </item>
     
       <item>
@@ -85,8 +111,8 @@
 &lt;h2 id=&quot;hoy-te-invito-a-que-des-tu-vida-por-completo-no-dejes-de-buscarle-no-tengas-miedo-arrodillate-porque-dios-te-está-esperando&quot;&gt;Hoy te invito a que des tu vida por completo. No dejes de buscarle. No tengas miedo, arrodillate porque Dios te está esperando.&lt;/h2&gt;
 </description>
         <pubDate>26 Jan 2020</pubDate>
-        <link>https://elblogdebraian.github.io/2020/01/26/alabe-todo-mi-ser-tu-santo-nombre/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2020/01/26/alabe-todo-mi-ser-tu-santo-nombre/</guid>
+        <link>http://localhost:4000/2020/01/26/alabe-todo-mi-ser-tu-santo-nombre/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/26/alabe-todo-mi-ser-tu-santo-nombre/</guid>
       </item>
     
       <item>
@@ -110,8 +136,8 @@ Vayamos ustedes a los montes; traigan madera y reconstruyan mí casa. Yo veré s
 &lt;h6 id=&quot;si-hoy-pasas-por-una-situación-fíjate-dios-seguramente-quiere-hablar-con-vos-no-dejes-que-pasen-quince-años-arregla-hoy-el-templo-de-dios-el-te-ama-y-te-está-esperando&quot;&gt;&lt;strong&gt;Si hoy pasas por una situación fíjate, Dios seguramente quiere hablar con vos. No dejes que pasen quince años. Arregla hoy el templo de Dios. El te ama y te está esperando.&lt;/strong&gt;&lt;/h6&gt;
 </description>
         <pubDate>24 Jan 2020</pubDate>
-        <link>https://elblogdebraian.github.io/2020/01/24/no-pierdas-tiempo/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2020/01/24/no-pierdas-tiempo/</guid>
+        <link>http://localhost:4000/2020/01/24/no-pierdas-tiempo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/24/no-pierdas-tiempo/</guid>
       </item>
     
       <item>
@@ -129,8 +155,8 @@ Vayamos ustedes a los montes; traigan madera y reconstruyan mí casa. Yo veré s
 &lt;p&gt;&lt;strong&gt;No dejes de orar amigo, amiga. Sigan adelante. Muchas bendiciones las perdemos por no continuar orando. Por ceder. Por cansarnos. La Fe es eso. Insistir. Creer que es posible.&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>23 Jan 2020</pubDate>
-        <link>https://elblogdebraian.github.io/2020/01/23/creer-que-es-posible/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2020/01/23/creer-que-es-posible/</guid>
+        <link>http://localhost:4000/2020/01/23/creer-que-es-posible/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/23/creer-que-es-posible/</guid>
       </item>
     
       <item>
@@ -144,8 +170,8 @@ Vayamos ustedes a los montes; traigan madera y reconstruyan mí casa. Yo veré s
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/JP-ynoI9HTY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>22 Jan 2020</pubDate>
-        <link>https://elblogdebraian.github.io/2020/01/22/lo-esencial-es-invisible/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2020/01/22/lo-esencial-es-invisible/</guid>
+        <link>http://localhost:4000/2020/01/22/lo-esencial-es-invisible/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/22/lo-esencial-es-invisible/</guid>
       </item>
     
       <item>
@@ -156,8 +182,8 @@ Vayamos ustedes a los montes; traigan madera y reconstruyan mí casa. Yo veré s
 
 &lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;s1&quot;&gt;'use strict'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'markdown'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;use strict&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;Editor&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;preview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;update&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
     &lt;span class=&quot;nx&quot;&gt;preview&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;innerHTML&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;toHTML&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;input&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;value&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
@@ -178,8 +204,8 @@ Vayamos ustedes a los montes; traigan madera y reconstruyan mí casa. Yo veré s
 
 </description>
         <pubDate>25 Apr 2016</pubDate>
-        <link>https://elblogdebraian.github.io/2016/04/25/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2016/04/25/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/2016/04/25/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/04/25/welcome-to-jekyll/</guid>
       </item>
     
       <item>
@@ -214,8 +240,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>22 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</guid>
+        <link>http://localhost:4000/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/22/the-reason-were-gathered-here-on-our-god-given-day/</guid>
       </item>
     
       <item>
@@ -250,8 +276,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
+        <link>http://localhost:4000/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/it-would-be-totally-painless-theyd-just-slip-into-unconsciousness/</guid>
       </item>
     
       <item>
@@ -308,12 +334,11 @@ lacinia in lorem.&lt;/li&gt;
 
 &lt;p&gt;Got a streak of geek? We’ve got you covered there, too. You can write inline &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;code&amp;gt;&lt;/code&gt; blocks really easily with back ticks. Want to show off something more comprehensive? 4 spaces of indentation gets you there.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.awesome-thing {
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;.awesome-thing {
     display: block;
     width: 100%;
 }
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;ready-for-a-break&quot;&gt;Ready for a Break?&lt;/h3&gt;
 
@@ -330,8 +355,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;That should be enough to get you started. Have fun - and let us know what you think :)&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</guid>
+        <link>http://localhost:4000/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-think-it-is-time-we-inform-the-senate-that-our-ability/</guid>
       </item>
     
       <item>
@@ -366,8 +391,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</guid>
+        <link>http://localhost:4000/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-know-cats-whod-take-out-whole-zipcodes-for-that-kind-of-cheese/</guid>
       </item>
     
       <item>
@@ -402,8 +427,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</guid>
+        <link>http://localhost:4000/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/i-get-paid-all-day-every-day-which-is-almost-too-much-for-artist/</guid>
       </item>
     
       <item>
@@ -432,8 +457,8 @@ lacinia in lorem.&lt;/li&gt;
 
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</guid>
+        <link>http://localhost:4000/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/how-to-travel-around-the-world-with-less-expenses/</guid>
       </item>
     
       <item>
@@ -462,8 +487,8 @@ lacinia in lorem.&lt;/li&gt;
 
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</guid>
+        <link>http://localhost:4000/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/how-can-i-trust-a-man-who-wont-eat-a-good-old-fashioned-american/</guid>
       </item>
     
       <item>
@@ -498,8 +523,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
+        <link>http://localhost:4000/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/going-to-stand-by-and-see-another-marine-die-just-to-live/</guid>
       </item>
     
       <item>
@@ -534,8 +559,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</guid>
+        <link>http://localhost:4000/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/every-day-which-is-almost-too-much-for-sensitive/</guid>
       </item>
     
       <item>
@@ -570,8 +595,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
+        <link>http://localhost:4000/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/eddie-kim-somehow-managed-to-fill-the-plane-with-poisonous-snakes/</guid>
       </item>
     
       <item>
@@ -606,44 +631,8 @@ lacinia in lorem.&lt;/li&gt;
 &lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
 </description>
         <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
-      </item>
-    
-      <item>
-        <title>Access main program. Access main security. Access main program grid</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.&lt;/p&gt;
-
-&lt;p&gt;Vix dico eius nominati cu, ex zril commodo fuisset mea. Habeo adhuc audiam ius no. In quis virtute officiis has. Vix ad honestatis accommodare, quis virtute et sit, pertinax expetenda eam id. Duo an fuisset delectus dissentias, justo altera ea per.&lt;/p&gt;
-
-&lt;h5 id=&quot;todo&quot;&gt;Todo&lt;/h5&gt;
-
-&lt;p&gt;Duis id ante elit. Aliquam quis tellus id orci eleifend finibus. Donec consequat justo ligula, eget sodales purus hendrerit at.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Ut at interdum nunc. Maecenas commodo turpis quis elementum gravida.&lt;/li&gt;
-  &lt;li&gt;Nunc ac sapien tellus. Quisque risus enim, tempus eget porttitor in, pellentesque vel urna.
- Donec nibh massa, rutrum a sollicitudin eu,
-lacinia in lorem.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h5 id=&quot;graphic-design&quot;&gt;Graphic design&lt;/h5&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Graphic design is the paradise of individuality, eccentricity, heresy, abnormality, hobbies, and humors. — George Santayana&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Vim te case nihil oblique, has partem interpretaris ne, ad admodum accusamus nam. Usu utinam dissentias referrentur ne, vim accusam voluptua pertinacia no. Est no posse utinam inermis, brute errem mentitum et ius, te prompta albucius quo. In pro simul soleat regione.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1433785567155-bf5530cab72c?ixlib=rb-0.3.5&amp;amp;q=80&amp;amp;fm=jpg&amp;amp;crop=entropy&amp;amp;w=1080&amp;amp;fit=max&amp;amp;s=1348aea714b9493fa61a09a8c01113e6&quot; alt=&quot;alt&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ne reque offendit singulis mea, ad eos ferri doming nostrud. Duis suscipit usu ut, fuisset pericula ex est, et porro prompta his. Audire definiebas voluptatibus et duo, aperiam ocurreret ad nec. Vel ad nostrud principes. Ad liber congue iracundia sed, eirmod erroribus eam te, has veniam epicurei ea.&lt;/p&gt;
-
-&lt;p&gt;Pri probo alterum aliquando an. Duo appetere laboramus intellegat ea, ex suas diam exerci vix. Mel simul debitis id, est nusquam fuisset mentitum in. Te mei iudico iisque.&lt;/p&gt;
-</description>
-        <pubDate>21 Dec 2015</pubDate>
-        <link>https://elblogdebraian.github.io/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</link>
-        <guid isPermaLink="true">https://elblogdebraian.github.io/2015/12/21/access-main-program-access-main-security-access-main-program-grid/</guid>
+        <link>http://localhost:4000/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</link>
+        <guid isPermaLink="true">http://localhost:4000/2015/12/21/almost-too-much-for-sensitive-to-get-paid-all-day-every-day/</guid>
       </item>
     
 
@@ -684,7 +673,7 @@ El blog no es más que una herramienta para llegar a personas en necesidad que e
 &lt;p&gt;Creo en un Dios real y vivo, en Jesús su Hijo que habiendo resucitado nos dió la oportunidad de ser &lt;strong&gt;salvos&lt;/strong&gt;. Creo en el Espíritu Santo, que es el motor de este cuerpo con barba. 
 Dios no es malvado, Dios no es cruel y totalmente contrario a estas ideas que se nos impuso a lo largo de los años, &lt;strong&gt;Dios es un Papá cien por ciento amoroso, interesado por tener una relación con vos&lt;/strong&gt;&lt;/p&gt;
 </description>
-            <link>https://elblogdebraian.github.io/acerca.html</link>
+            <link>http://localhost:4000/acerca.html</link>
           </item>
         
       
@@ -930,25 +919,9 @@ pre {
 &lt;button class='c-btn c-btn--active c-btn--small'&gt;Button&lt;/button&gt;
 &lt;button class='c-btn c-btn--active c-btn--full'&gt;Button&lt;/button&gt;
 {% endhighlight %}</description>
-            <link>https://elblogdebraian.github.io/guia-de-estilo.html</link>
+            <link>http://localhost:4000/guia-de-estilo.html</link>
           </item>
         
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
       
     
       
