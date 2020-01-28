@@ -5,8 +5,8 @@
     <description>Devocionales, Noticias, Y mucho más</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 28 Jan 2020 15:41:52 -0300</pubDate>
-    <lastBuildDate>Tue, 28 Jan 2020 15:41:52 -0300</lastBuildDate>
+    <pubDate>Tue, 28 Jan 2020 15:54:19 -0300</pubDate>
+    <lastBuildDate>Tue, 28 Jan 2020 15:54:19 -0300</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
