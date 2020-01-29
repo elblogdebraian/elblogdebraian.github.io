@@ -5,8 +5,8 @@
     <description>Devocionales, Noticias, Y mucho más</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Jan 2020 09:51:38 -0300</pubDate>
-    <lastBuildDate>Wed, 29 Jan 2020 09:51:38 -0300</lastBuildDate>
+    <pubDate>Wed, 29 Jan 2020 11:29:50 -0300</pubDate>
+    <lastBuildDate>Wed, 29 Jan 2020 11:29:50 -0300</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
 
     
@@ -55,6 +55,22 @@ En sí, son diferentes herramientas &lt;strong&gt;Digital Wellbeing (Bienestar D
         <pubDate>29 Jan 2020</pubDate>
         <link>http://localhost:4000/2020/01/29/corta-con-esta-adiccion/</link>
         <guid isPermaLink="true">http://localhost:4000/2020/01/29/corta-con-esta-adiccion/</guid>
+      </item>
+    
+      <item>
+        <title>Corre con propósito</title>
+        <description>&lt;h1 id=&quot;1-corintios-924-26&quot;&gt;1 Corintios 9:24-26&lt;/h1&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;24 ¿No se dan cuenta de que en una carrera todos corren, pero solo una persona se lleva el premio? ¡Así que corran para ganar! 25 Todos los atletas se entrenan con disciplina. Lo hacen para ganar un premio que se desvanecerá, pero nosotros lo hacemos por un premio eterno. 26 Por eso yo corro cada paso con propósito. No solo doy golpes al aire.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;sigue-corre-avanza-no-te-quedes-esperando-no-te-desalientes-no-pierdas-de-vista-la-meta-no-pierdas-de-vista-el-premio&quot;&gt;Sigue, corre, avanza. No te quedes esperando. No te desalientes. No pierdas de vista la meta. No pierdas de vista el premio.&lt;/h3&gt;
+&lt;h3 id=&quot;corre-cada-paso-con-propósito&quot;&gt;Corre cada paso con propósito.&lt;/h3&gt;
+
+</description>
+        <pubDate>29 Jan 2020</pubDate>
+        <link>http://localhost:4000/2020/01/29/corre-con-proposito/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/29/corre-con-proposito/</guid>
       </item>
     
       <item>
