@@ -25,10 +25,7 @@ Por ejemplo, en mi caso, seleccione la mayoría de mis redes sociales y reduje s
 También seleccioné el modo **Sin Distraciones** y bloquee todas las apps que pueden llegar a distraerme cuando realmente necesite estar concentrado.
 
 *Cabe aclarar que este último modo no es fijo sino que se utiliza para cuando necesitas enfocarte en alguna tarea, simplemente encendes el modo Sin Distracciones*
-
-![alt](https://i.imgur.com/g3ld3Jr.png)
-![alt](https://i.imgur.com/FkjkZo1.png)
-
+[!alt](https://lh3.googleusercontent.com/gqA1Ft7dE3PlrY_Oh8_BkNbElWf8y0fAnwcHREG7Qep_-FO3VsHUs4tMAHx3jwmNfSGi=w1366-h667-rw)
 ---
 
 Otra de las opciones geniales y que está disponible en cualquier móvil es la que incluye **Instagram** y **Facebook**.
