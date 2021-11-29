@@ -83,14 +83,14 @@ weight = 2
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/elblogdebraian.png"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "UA-111733774-1" # your id
 # sidebar
 sidebar = "left" #sidebar value (left,right,false)
 
@@ -115,8 +115,8 @@ link = "#"
 # Instagram feed
 [params.instafeed]
 enable = true
-user_id = "4044026246"
-access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+user_id = "17841404309251338"
+access_token = "bgaisy4mqpeey00j46um"
   
 ############################# social site ########################
 [[params.social]]
@@ -127,22 +127,22 @@ link = "#"
 [[params.social]]
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/braianagustin.diez/"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/elblogdebraian/"
 
 [[params.social]]
 title = "github"
 icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.github.com/linuxmobile/"
 
 [[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+title = "twitter"
+icon = "ti-twitter" # themify icon : https://themify.me/themify-icons
+link = "https://www.twitter.com/linuxmobileok/"
 
 
 ################################### English language #####################################
@@ -150,7 +150,7 @@ link = "#"
 languageName = "En"
 languageCode = "en-us"
 contentDir = "content/english"
-weight = 2
+weight = 1
 home = "Home"
 # subscription
 subscription_title = "Join Newteller for the latest news"
@@ -164,7 +164,7 @@ copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefi
 languageName = "Es"
 languageCode = "es-es"
 contentDir = "content/spanish"
-weight = 1
+weight = 2
 home = "Inicio"
 # subscription
 subscription_title = "Rejoignez Newteller pour les dernières nouvelles"
