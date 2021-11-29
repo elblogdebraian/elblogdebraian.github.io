@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "elblogdebraian.netlify.app"
+baseURL = "/"
 title = "elblogdebraian | un blog para encontrarse con Dios"
 theme = "gojournal"
 # post pagination
