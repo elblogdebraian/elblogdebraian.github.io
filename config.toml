@@ -1,34 +1,69 @@
-######################## default configuration ####################
-baseURL = "elblogdebraian.netlify.app"
-title = "elblogdebraian | un blog para encontrarse con Dios"
-theme = "gojournal"
-# post pagination
+baseURL = "/"
+disableLanguages = []
+disqusShortname = "n00b2h4ck3r"
 paginate = "3"
-# post excerpt
 summaryLength = "20"
-# disqus short name
-disqusShortname = "n00b2h4ck3r" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = [] # disable language from here
-
-[outputs]
-home = ["HTML", "RSS", "JSON"]
-
-# unsafe html
+theme = "gojournal"
+title = "elblogdebraian | un blog para encontrarse con Dios"
+[Languages.en]
+contentDir = "content/english"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+subscription_content = "Subscribe now to get notified about exclusive News And Views Issues every week!"
+subscription_title = "Join Newteller for the latest news"
+weight = 2
+[Languages.es]
+contentDir = "content/spanish"
+copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+home = "Inicio"
+languageCode = "es-es"
+languageName = "Es"
+subscription_content = "Subscribe now to get notified about exclusive News And Views Issues every week!"
+subscription_title = "Rejoignez Newteller pour les dernières nouvelles"
+weight = 1
 [markup.goldmark.renderer]
 unsafe = true
-
-############################# Plugins ##############################
-
-# CSS Plugins
+[[menu.footer]]
+URL = "privacy-policy"
+name = "privacy policy"
+weight = 2
+[[menu.footer]]
+URL = "contact"
+name = "contact"
+weight = 1
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 3
+[[menu.main]]
+URL = "privacy-policy"
+name = "Privacy Policy"
+weight = 2
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+[params]
+author = "Themefisher"
+contact_form_action = "#"
+description = "This is meta description"
+google_analitycs_id = ""
+logo = "images/logo.png"
+sidebar = "left"
+[params.instafeed]
+access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
+enable = true
+user_id = "4044026246"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
-
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -43,6 +78,7 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.plugins.js]]
 link = "plugins/instafeed/instafeed.min.js"
+<<<<<<< HEAD
 
 
 ############################## navigation ###############################
@@ -95,36 +131,32 @@ google_analitycs_id = "UA-111733774-1" # your id
 sidebar = "left" #sidebar value (left,right,false)
 
 # Preloader
+=======
+>>>>>>> 17222f78355c19003313d77a9194a0782df16dde
 [params.preloader]
 enable = false
-preloader = "" # use jpg, png, svg or gif format.
-
-# Subscription
-[params.subscription]
-enable = true
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
-# promotion 
+preloader = ""
 [params.promotion]
 enable = true
 image = "images/promotion.png"
 link = "#"
-
-# Instagram feed
-[params.instafeed]
+[params.subscription]
 enable = true
+<<<<<<< HEAD
 user_id = "17841404309251338"
 access_token = "bgaisy4mqpeey00j46um"
   
 ############################# social site ########################
+=======
+mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
+mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
+>>>>>>> 17222f78355c19003313d77a9194a0782df16dde
 [[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+icon = "ti-facebook"
 link = "#"
-
+title = "facebook"
 [[params.social]]
+<<<<<<< HEAD
 title = "twitter"
 icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
 link = "https://www.facebook.com/braianagustin.diez/"
@@ -171,3 +203,20 @@ subscription_title = "Rejoignez Newteller pour les dernières nouvelles"
 subscription_content = "Subscribe now to get notified about exclusive News And Views Issues every week!"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+=======
+icon = "ti-twitter-alt"
+link = "#"
+title = "twitter"
+[[params.social]]
+icon = "ti-instagram"
+link = "#"
+title = "instagram"
+[[params.social]]
+icon = "ti-github"
+link = "#"
+title = "github"
+[[params.social]]
+icon = "ti-linkedin"
+link = "#"
+title = "linkedin"
+>>>>>>> 17222f78355c19003313d77a9194a0782df16dde
