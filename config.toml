@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://elblogdebraian.github.io"
+baseURL = "elblogdebraian.netlify.app"
 title = "elblogdebraian | un blog para encontrarse con Dios"
 theme = "gojournal"
 # post pagination
