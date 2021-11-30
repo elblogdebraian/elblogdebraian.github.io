@@ -4,7 +4,7 @@ title: Un tiempo en Tu presencia
 description: Llevamos recién 28 diás de el primer mes del año, y estuve leyendo el
   libro de Hechos. Hoy quería escribir acerca de Hechos 2:37 y su contexto.
 date: 2020-01-28 00:00:00 -0300
-image: https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c
+image: https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw1NTEzfDB8MXxzZWFyY2h8MXx8Y2xvY2t8ZW58MHx8fHwxNjE1NjQ5Nzg4&ixlib=rb-1.2.1&q=80&w=1080&utm_source=endurance-innovation&utm_medium=referral
 tags:
 - Devocionales
 
