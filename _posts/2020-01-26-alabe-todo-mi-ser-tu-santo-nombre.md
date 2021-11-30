@@ -5,7 +5,7 @@ description: Tengo entendido que a muchos de nosotros, que visitamos esta red so
   nos cuesta mantener una buena comunión con Dios. Es hermoso porque muchos escriben
   cosas lindas sobre Dios, pero pocos han vivido su verdad.
 date: 2020-01-26 00:00:00 -0300
-image: ''
+image: https://images.unsplash.com/photo-1500206329404-5057e0aefa48
 tags:
 - Devocionales
 
