@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: No pierdas tiempo
 description: Uno podría decir que Dios es malo, y por eso el motivo de sus represiones.
   Pero la verdad es que Dios nos ha tratado de hablar a través de situaciones mala,
