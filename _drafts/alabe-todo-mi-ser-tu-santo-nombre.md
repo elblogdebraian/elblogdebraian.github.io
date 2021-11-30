@@ -6,7 +6,8 @@ description: Tengo entendido que a muchos de nosotros, que visitamos esta red so
   cosas lindas sobre Dios, pero pocos han vivido su verdad.
 date: 2020-01-26 00:00:00 -0300
 image: ''
-tags: []
+tags:
+- Devocionales
 
 ---
 
