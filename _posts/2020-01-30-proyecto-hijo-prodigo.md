@@ -4,7 +4,7 @@ title: Proyecto Hijo Prodigo
 description: Tuvimos la bendición de conocer a los lideres de este hermoso Proyecto
   Hijo Prodigo
 date: 2020-01-30 00:00:00 -0300
-image: ''
+image: "/images/posts/3.jpeg"
 tags:
 - Noticias
 featured: true
