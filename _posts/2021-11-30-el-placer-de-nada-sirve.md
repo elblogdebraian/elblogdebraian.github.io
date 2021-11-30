@@ -5,7 +5,7 @@ description: "¿No les ha pasado que aún siendo cristianos, sirviendo y pertene
   a la iglesia les va mal? En mí caso, llevo aproximadamente 4 años sin empleo. Han
   sido 4 años largos de frustrarme, deprimirme, cansarme."
 date: 2021-11-30 00:00:00 -0300
-image: https://images.unsplash.com/photo-1638131242302-78189865fe15
+image: https://images.unsplash.com/photo-1638131242302-78189865fe15?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=883&q=80
 tags:
 - Devocional
 
