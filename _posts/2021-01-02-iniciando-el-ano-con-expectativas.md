@@ -5,7 +5,7 @@ description: 'Muchas personas me han preguntado acerca de la FE. Creen que es al
   místico, piensan que creer en Jesús, en Dios y en el Espíritu Santo es difícil ya
   que no podemos "ver" a estas personas. '
 date: 2021-01-02 00:00:00 -0300
-image: https://images.unsplash.com/photo-1457131760772-7017c6180f05
+image: https://images.unsplash.com/photo-1457131760772-7017c6180f05?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=853&q=80
 tags:
 - Devocionales
 
