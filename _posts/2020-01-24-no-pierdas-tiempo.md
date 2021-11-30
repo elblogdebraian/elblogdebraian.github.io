@@ -6,7 +6,8 @@ description: Uno podría decir que Dios es malo, y por eso el motivo de sus repr
   por el simple hecho de que en las situaciones buenas no hemos escuchado.
 date: 2020-01-24 00:00:00 -0300
 image: "/uploads/3.jpg"
-tags: []
+tags:
+- Devocionales
 
 ---
 ##### Hageo 1:6-8
