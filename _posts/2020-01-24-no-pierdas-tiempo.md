@@ -5,7 +5,7 @@ description: Uno podría decir que Dios es malo, y por eso el motivo de sus repr
   Pero la verdad es que Dios nos ha tratado de hablar a través de situaciones mala,
   por el simple hecho de que en las situaciones buenas no hemos escuchado.
 date: 2020-01-24 00:00:00 -0300
-image: "/uploads/3.jpg"
+image: "/images/posts/3.jpg"
 tags:
 - Devocionales
 
