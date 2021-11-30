@@ -5,7 +5,7 @@ description: A veces nos va a tocar analizar si estamos realmente bien. Y no dig
   si estamos conformes o si no tenemos ningún problema. Me estoy refiriendo a si nuestro
   corazón está bien.
 date: 2020-01-23 00:00:00 -0300
-image: "/image/posts/2.jpg"
+image: "/images/posts/2.jpg"
 tags:
 - Devocionales
 
