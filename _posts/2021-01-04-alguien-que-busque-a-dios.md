@@ -5,7 +5,7 @@ description: 'Constantemente Dios está viendo en la tierra si alguien busca de 
   Viendo si alguien depende de Él. Este año por mas temprano que sea, quiero depender
   de Él. '
 date: 2021-01-04 00:00:00 -0300
-image: "/images/posts/06.jpg"
+image: "/images/posts/6.jpg"
 tags:
 - Devocionales
 
