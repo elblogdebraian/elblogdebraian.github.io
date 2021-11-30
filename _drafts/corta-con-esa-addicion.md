@@ -6,8 +6,10 @@ description: "Hace ya unos días que vengo implementando unas herramientas muy �
   que están en nuestros teléfonos desde Android 9.0.\nEn sí, son diferentes herramientas
   Digital Wellbeing (Bienestar Dígital) es la principal. "
 date: 2020-02-01 00:00:00 -0300
-image: "/images/posts/"
-tags: []
+image: "/images/posts/4.jpg"
+tags:
+- Herramientas
+- Tecnología
 
 ---
 Hace ya unos días que vengo implementando unas herramientas muy útiles que están en nuestros teléfonos desde Android 9.0.
