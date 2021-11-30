@@ -5,7 +5,7 @@ description: 'Hoy en Argentina se continúa debatiendo esta ley a favor del abor
   Y como Cristianos obviamente estamos en contra del asesinato de una vida por nacer.
   Proponemos otras alternativas mejores. '
 date: 2020-01-27 00:00:00 -0300
-image: https://images.unsplash.com/photo-1481277542470-605612bd2d61
+image: https://images.unsplash.com/photo-1481277542470-605612bd2d61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=806&q=80
 tags:
 - Devocionales
 
