@@ -21,5 +21,6 @@ fields:
   name: tags
   label: tags
 pages:
+- _posts/alabe-todo-mi-ser-tu-santo-nombre.md
 - _posts/creer-es-posible.md
 - _posts/no-pierdas-tiempo.md
