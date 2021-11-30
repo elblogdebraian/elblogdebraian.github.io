@@ -4,7 +4,7 @@ title: Camina con Dios
 description: A pesar de que el por fin terminado 2020 ha sido muy díficil gracias
   a esta pandemia, Dios no nos ha desamparado. No nos ha abandonado.
 date: 2021-01-01 00:00:00 -0300
-image: "/images/posts/05.jpg"
+image: "/images/posts/5.jpg"
 tags:
 - Devocionales
 
