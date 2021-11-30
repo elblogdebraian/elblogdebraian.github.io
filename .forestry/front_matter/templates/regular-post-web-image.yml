@@ -1,19 +1,26 @@
 ---
-label: Regular Post Web Image
+label: Regular Post
 hide_body: false
 fields:
 - type: text
   name: layout
   label: layout
+  default: post
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: text
   name: description
   label: description
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  config:
+    required: false
 - name: image
   type: text
   config:
