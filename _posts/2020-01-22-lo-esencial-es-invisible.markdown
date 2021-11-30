@@ -3,7 +3,7 @@ layout: post
 title: Lo esencial es Invisible a los Ojos
 description: Lo esencial es invisible a los ojos, pero no es invisible para la fe.
 date: 2020-01-22
-image: "/images/posts/5.jpg"
+image: "/images/posts/1.jpg"
 tags:
 - citas
 
