@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Creer es Posible
 description: A veces nos va a tocar analizar si estamos realmente bien. Y no digo
   si estamos conformes o si no tenemos ningún problema. Me estoy refiriendo a si nuestro
