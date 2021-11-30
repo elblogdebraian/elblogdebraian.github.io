@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Lo esencial es Invisible a los Ojos
-description: Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum.
-  Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies...
+description: Lo esencial es invisible a los ojos, pero no es invisible para la fe.
 date: 2020-01-22
 image: "/images/posts/5.jpg"
 tags:
