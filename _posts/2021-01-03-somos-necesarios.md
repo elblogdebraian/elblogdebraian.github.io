@@ -4,7 +4,7 @@ title: Somos necesarios
 description: "¿No les pasa que muchas veces sentimos que no servimos para nada? Como
   que Dios nos ignora completamente. Que no vale la pena el esfuerzo."
 date: 2021-01-03 00:00:00 -0300
-image: "/images/posts/07.jpg"
+image: https://images.unsplash.com/photo-1638232504909-8c35d24ae469
 tags:
 - Devocionales
 
