@@ -6,7 +6,8 @@ description: A veces nos va a tocar analizar si estamos realmente bien. Y no dig
   corazón está bien.
 date: 2020-01-23 00:00:00 -0300
 image: "/uploads/2.jpg"
-tags: []
+tags:
+- Devocionales
 
 ---
 <p><em>A veces nos va a tocar analizar si estamos realmente bien. Y no digo si estamos conformes o si no tenemos ningún problema. Me estoy refiriendo a si nuestro corazón está bien.</em></p>
