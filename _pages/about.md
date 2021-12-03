@@ -14,23 +14,23 @@ Desde el 2018 hasta hoy, he intentado servir a Dios en lo que puedo, y con lo qu
 
 
 
-    - Dios es eterno y existe en tres personas: Padre, Hijo y Espíritu Santo
+   - Dios es eterno y existe en tres personas: Padre, Hijo y Espíritu Santo
     (Mateo 28:19)
-    - La Biblia es la inspirada Palabra de Dios, nunca falla
+   - La Biblia es la inspirada Palabra de Dios, nunca falla
     (2 Timoteo 3:16)
-    - Jesús es Dios (deidad de Jesús) 
+   - Jesús es Dios (deidad de Jesús) 
     (Juan 1:1)
-    - Jesús nació de una virgen (nacimiento virginal de Jesús)
+   - Jesús nació de una virgen (nacimiento virginal de Jesús)
     (Mateo 1:23-25)
-    - La sangre de Jesús perdona nuestros pecados 
+   - La sangre de Jesús perdona nuestros pecados 
     (Efesios 1:7)
-    - Somos salvos por gracia y por el sacrificio de Jesús
+   - Somos salvos por gracia y por el sacrificio de Jesús
     (Romanos 3:24)
-    - Jesús resucitó y ascendió al cielo
+   - Jesús resucitó y ascendió al cielo
     (1 Pedro 1:3)
-    - Jesús vendrá por segunda vez
+   - Jesús vendrá por segunda vez
     (Santiago 5:7-8)
-    - El cielo y el infierno existen
+   - El cielo y el infierno existen
     (2 Corintios 5:1)
 
 
