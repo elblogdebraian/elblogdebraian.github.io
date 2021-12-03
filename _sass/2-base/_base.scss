@@ -88,6 +88,9 @@ h6 {
 }
 
 blockquote {
+  font-family: $quote-font-family;
+  font-weight: $quote-font-weight;
+  font-style: $quote-font-style;
   position: relative;
   padding: 34px 20px 34px 64px;
   margin-bottom: 0;
