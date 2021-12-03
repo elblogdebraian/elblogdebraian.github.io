@@ -76,3 +76,15 @@ Tuve una infancia muy dificil, supongo que es algo que todos suelen decir y en c
 
 
 
+## Mi Capítulo favorito de la biblia es
+
+**Isaías 53**
+
+## Mis Redes Sociales
+
+www.instagram.com/elblogdebraian | www.instagram.com/linuxmobile
+www.twitter.com/linuxmobileok
+www.tumblr.com/elblogdebraian | elblogdebraian.tumblr.com
+www.linuxmobile.github.io
+
+*Si gustaran de donarme algo. Lo pueden hacer a través de Paypal https://www.paypal.com/paypalme/n00b2h4ck3r*
