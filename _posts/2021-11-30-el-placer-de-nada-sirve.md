@@ -23,4 +23,4 @@ Cuando tengo esos pensamientos, recuerdo el libro de Eclesiastés. Y su tan memo
 
 Cuando atravesamos crisis de este tipo, y nos planteamos dejarlo todo y volver a la antigua vida que llevábamos, **retrocedemos**. Y no solo retrocedemos, también **le damos la espalda a Dios** con todo lo que Él ya ha hecho. Dios ha preparado un camino para nosotros, y muchas veces vamos a necesitar de paciencia. Mucha paciencia, para poder afrontar el camino que viene.
 
-# **_No pierdas tu tiempo volviendo al lugar donde saliste. Pronto Dios traerá la cosecha de aquello que se había sembrado!_**
+# _No pierdas tu tiempo volviendo al lugar donde saliste. Pronto Dios traerá la cosecha de aquello que se había sembrado!_
