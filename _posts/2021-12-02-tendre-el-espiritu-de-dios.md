@@ -24,9 +24,9 @@ No va al caso contar todo con lujos y detalles, pero sí decirles que me he sent
 
 Hoy estoy pasando por **una prueba inmensa**. Una prueba que sabía que me iba a pasar, pero sinceramente no estaba del todo preparado. Busqué consejos, oré, me consagré pero **no estaba listo** para afrontar todo lo que se me venía. Sin embargo, **Dios no se ha separado de mi.**
 
-### **Quisiera decir que este versículo va a pasar en mi vida. Que voy a ser como José. Y que toda esta prueba, es igual que a la de José. Solo una prueba que marcará mi vida y hará que el día futuro, serán grandes cosas. Hoy estoy afligido, pero decido creerle a Dios. Creer que Él me va a levantar, que me va a sostener. En su palabra, él dice:**
+### Quisiera decir que este versículo va a pasar en mi vida. Que voy a ser como José. Y que toda esta prueba, es igual que a la de José. Solo una prueba que marcará mi vida y hará que el día futuro, serán grandes cosas. Hoy estoy afligido, pero decido creerle a Dios. Creer que Él me va a levantar, que me va a sostener. En su palabra, él dice:
 
 > Diré yo a Jehová: Esperanza mía, y castillo mío; Mi Dios, en quien confiaré.  
 > <cite>Salmos 91:2</cite>
 
-# **Hoy confiaré en Su Palabra, y no dudaré.**
+# Hoy confiaré en Su Palabra, y no dudaré.
